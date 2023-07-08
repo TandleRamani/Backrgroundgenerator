@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(0, 255, 0), yellow);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+input {
+    margin: 0 10px;
+    height: 30px;
+    width: 100px;
+}
+
+button {
+    height: 34px;
+}
